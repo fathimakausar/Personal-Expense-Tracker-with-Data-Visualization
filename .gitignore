@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.pytest_cache/
+.streamlit/secrets.toml
+db/*.db
+outputs/*
+!outputs/.gitkeep
+images/*
+!images/.gitkeep
+reports/*
+!reports/.gitkeep
